@@ -246,3 +246,7 @@ export default function PhotoGalleryScreen({ navigation, route }) {
 }
 
 
+
+
+
+
